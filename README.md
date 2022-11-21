@@ -1,29 +1,38 @@
 ### a bit about me
 - she/her, furry
 - currently doing homebrew for game boy (dmg, sgb and cgb)
+- i also sometimes make animations of.. cats fighting? something like that
 - you may see me pop up at game jams from time to time
-- feel free to ask me any stupid questions you got, "worst she can do is say no" :3c
-- usually online on discord, feel free to dm or ping
+- any questions? dm me on discord, im online quite often
 
 ### this readme contains:
 - a very basic intro
 - a table of contents thingy (youre reading it)
 - portfolio i guess?
 - list of things id love to do
-- links to my other accounts (todo: finish the list)
+- links to my other accounts
 - profile pic credits and info
-- bad art at the end
+- some bad ascii art
+
+maybe if enough people ask ill add a section for zlago (my character) and
+something that goes into way more detail than the `a bit about me` section
 
 ### stuff i did
 - a snake clone for game boy https://zlago.itch.io/snek-gbc
 
 ### would like to do a..
 - somewhat lightweight GB/SGB/SNES (maybe also PokeMini) sound driver
-- semi-seamless platformer for GB
+- platformer for DMG/SGB/GBC so impressive youd think its a windows game with bad graphics
+(doubt itll happen, but hey, you never know..)
+- somewhat simple 4 (or more) player homebrew game
 
 ### links to socials
 - discord : zlago#4821
 - itch : https://zlago.itch.io
+- mastodon : https://mastodon.gamedev.place/@zlago
+- BotB : https://battleofthebits.org/barracks/Profile/zlago/
+
+did i miss anything?
 
 ### profile picture
 if for any weird reason you would like your art to be my profile pic,
@@ -39,7 +48,15 @@ current discord banner is by `i have no idea, i couldnt find anything`
 
 if my pfp is *not* a white winking cat with rather big ears, a flower on one of em, a green bandana and.. some sort of hairstyle,
 all on a pink background, then it likely means i forgot to update the readme, please notify me..
+
+### closing thoughts
+
+here have an awful ascii drawing, i got nothing else to say
+
+![image](https://user-images.githubusercontent.com/104219492/198306011-3e56fb63-a50c-4592-b147-64962f64d91b.png)
+
 <!--
+dont mind this i didnt bother removing it just in case id ever like to take a look at this _wonderful cheat sheet_
 **zlago/zlago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -53,8 +70,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### closing thoughts
-
-here have an awful ascii drawing, i got nothing else to say
-
-![image](https://user-images.githubusercontent.com/104219492/198306011-3e56fb63-a50c-4592-b147-64962f64d91b.png)
