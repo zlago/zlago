@@ -1,5 +1,5 @@
 ### a bit about me
-- she/her, furry
+- she/her, furry (any pronouns will do, but id prefer if you used she/her)
 - currently doing homebrew for game boy (dmg, sgb and cgb)
 - i also sometimes make animations of.. cats fighting? something like that
 - you may see me pop up at game jams from time to time
@@ -25,6 +25,7 @@ something that goes into way more detail than the `a bit about me` section
 - platformer for DMG/SGB/GBC so impressive youd think its a windows game with bad graphics
 (doubt itll happen, but hey, you never know..)
 - somewhat simple 4 (or more) player homebrew game
+- gbc bootrom with some special functions, like forcing a game to run in DMG mode or writting a DMA hook
 
 ### links to socials
 - discord : zlago#4821
