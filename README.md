@@ -36,12 +36,16 @@ something that goes into way more detail than the `a bit about me` section
 did i miss anything?
 
 ### profile picture
-if for any weird reason you would like your art to be my profile pic,
-dm me on discord about it, if i like it itll be my discord pfp, maybe
-on other platforms too, the github pfp should forever remain as this cat thing.
+if for any weird reason you would like your art to be my profile pic, dm me
+on discord about it, if i like it itll be my discord pfp, maybe on other
+platforms too, the github pfp should forever remain as the 8x8 cat thing though..
+
+if youre unsure on how to draw zlago, well i dont really
+have a ref sheet but we should be able to figure something out
 
 if i get bored of the same thing i either draw something new or open the
-folder full of older pfps i had and choose something
+folder full of older pfps i had and choose something, so consider putting
+a watermark on your creation
 
 current discord pfp is by Delivery Cat#4561
 
