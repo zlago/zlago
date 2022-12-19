@@ -48,9 +48,7 @@ if i get bored of the same thing i either draw something new or open the
 folder full of older pfps i had and choose something, so consider putting
 a watermark on your creation
 
-discord pfp is a placeholder and will be changed soon
-
-and on mastodon and pronouns.page its by Delivery Cat#4561
+currently my avatar on most things is drawn by Delivery Cat#5934
 
 ### closing thoughts
 
