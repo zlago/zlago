@@ -1,9 +1,9 @@
 ### a bit about me
-- she/her, furry (https://en.pronouns.page/@zlago for more info)
+- she/her, furry [(more info)](https://en.pronouns.page/@zlago)
 - currently doing homebrew for game boy (dmg, sgb and cgb)
 - i also sometimes make animations of.. cats fighting? something like that
 - you may see me pop up at game jams from time to time
-- any questions? dm me on discord, im online quite often
+- any questions? [dm me on discord](https://github.com/zlago/zlago#links-to-socialswhatevs), im online quite often
 
 ### this readme contains:
 - a very basic intro
@@ -18,7 +18,7 @@ maybe if enough people ask ill add a section for zlago (my character) and
 something that goes into way more detail than the `a bit about me` section
 
 ### stuff i did
-- a snake clone for game boy https://zlago.itch.io/snek-gbc
+- [a snake clone for game boy](https://zlago.itch.io/snek-gbc) [(source)](github.com/zlago/snek-gbc)
 
 ### would like to do a..
 - somewhat lightweight GB/SGB/SNES (maybe also PokeMini) sound driver
@@ -29,10 +29,10 @@ something that goes into way more detail than the `a bit about me` section
 
 ### links to socials/whatevs
 - discord : zlago#4821
-- itch : https://zlago.itch.io
-- mastodon : https://mastodon.gamedev.place/@zlago
-- BotB : https://battleofthebits.org/barracks/Profile/zlago/
-- pronouns.page : https://en.pronouns.page/@zlago
+- [itch](https://zlago.itch.io)
+- [mastodon](https://mastodon.gamedev.place/@zlago)
+- [BotB](https://battleofthebits.org/barracks/Profile/zlago/)
+- [pronouns.page](https://en.pronouns.page/@zlago)
 
 did i miss anything?
 
@@ -48,7 +48,7 @@ if i get bored of the same thing i either draw something new or open the
 folder full of older pfps i had and choose something, so consider putting
 a watermark on your creation
 
-currently my avatar on most things is drawn by Delivery Cat#5934
+currently my avatar on most things is drawn by delgo#5934
 
 ### closing thoughts
 
