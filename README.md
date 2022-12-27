@@ -19,6 +19,7 @@ something that goes into way more detail than the `a bit about me` section
 
 ### stuff i did
 - [a snake clone for game boy](https://zlago.itch.io/snek-gbc) [(source)](github.com/zlago/snek-gbc)
+- [an SGB test rom involving self-writting code](https://github.com/zlago/sgb-speedtest/releases)
 
 ### would like to do a..
 - somewhat lightweight GB/SGB/SNES (maybe also PokeMini) sound driver
@@ -48,7 +49,7 @@ if i get bored of the same thing i either draw something new or open the
 folder full of older pfps i had and choose something, so consider putting
 a watermark on your creation
 
-currently my avatar on most things is drawn by delgo#5934
+currently my avatar on most things is drawn by Delivery Cat#5934
 
 ### closing thoughts
 
