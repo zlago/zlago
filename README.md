@@ -1,41 +1,44 @@
 ### a bit about me
 - she/her, furry [(more info)](https://en.pronouns.page/@zlago)
-- currently doing homebrew for game boy (dmg, sgb and cgb)
+- currently doing homebrew for game boy (dmg, sgb and cgb) and famicom/nes
 - i also sometimes make animations of.. cats fighting? something like that
 - you may see me pop up at game jams from time to time
-- any questions? [dm me on discord](https://github.com/zlago#links-to-socialswhatevs), im online quite often
+- any questions? [contact me](https://github.com/zlago#links-to-socialswhatevs)
 
 ### this readme contains:
 - a very basic intro
 - a table of contents thingy (youre reading it)
 - portfolio i guess?
-- list of things id love to do
+- list of things id love to do (*not* a todo list)
 - links to my other accounts
 - profile pic credits and info
 - some bad ascii art
 
-maybe if enough people ask ill add a section for zlago (my character) and
-something that goes into way more detail than the `a bit about me` section
+maybe if enough people ask ill add a section for zlago (me) and zlago (my character)
 
 ### stuff i did
-- [a snake clone for game boy](https://zlago.itch.io/snek-gbc) [(source)](github.com/zlago/snek-gbc)
-- [an SGB test rom involving self-writting code](https://github.com/zlago/sgb-speedtest/releases)
+- a snake clone for game boy [(itch)](https://zlago.itch.io/snek-gbc)
+[(github)](github.com/zlago/snek-gbc) [(homebrew hub)](https://hh.gbdev.io/game/snek-gbc)
+- an SGB test rom involving self-writting code [(github)](https://github.com/zlago/sgb-speedtest)
 
 ### would like to do a..
 - somewhat lightweight GB/SGB/SNES (maybe also PokeMini) sound driver
 - platformer for DMG/SGB/GBC so impressive youd think its a windows game with bad graphics
 (doubt itll happen, but hey, you never know..)
-- somewhat simple 4 (or more) player homebrew game
+- somewhat simple 4 (or more) player famicom game [(cant promise ill finish it)](github.com/zlago/nes-test)
 - gbc bootrom with some special functions, like forcing a game to run in DMG mode or writting a DMA hook
 
 ### links to socials/whatevs
-- discord : zlago#4821
+- discord : zlago#4821 (online often)
 - [itch](https://zlago.itch.io)
-- [mastodon](https://mastodon.gamedev.place/@zlago)
+- [mastodon](https://mastodon.gamedev.place/@zlago) (checked once in a while)
 - [BotB](https://battleofthebits.org/barracks/Profile/zlago/)
 - [pronouns.page](https://en.pronouns.page/@zlago)
 
-did i miss anything?
+please keep in mind that i am awful at starting and carrying
+conversations and i will NOT go out of my way to talk to you,
+
+if *you need/want anything from me* then i expect *you to message me*
 
 ### profile picture
 if for any weird reason you would like your art to be my profile pic, dm me
