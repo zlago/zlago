@@ -3,7 +3,7 @@
 - currently doing homebrew for game boy (dmg, sgb and cgb) and famicom/nes
 - i also sometimes make animations of.. cats fighting? something like that
 - you may see me pop up at game jams from time to time
-- any questions? [contact me](https://github.com/zlago#links-to-socialswhatevs)
+- any questions? [contact me](#links-to-socialswhatevs)
 
 ### this readme contains:
 - a very basic intro
