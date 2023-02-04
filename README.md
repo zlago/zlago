@@ -6,13 +6,13 @@
 - any questions? [contact me](#links-to-socialswhatevs)
 
 ### this readme contains:
-- a very basic intro
-- a table of contents thingy (youre reading it)
-- portfolio i guess?
-- list of things id love to do (*not* a todo list)
-- links to my other accounts
-- profile pic credits and info
-- some bad ascii art
+- [a very basic intro](#a-bit-about-me)
+- [a table of contents thingy](#this-readme-contains) (youre reading it)
+- [portfolio i guess?](#stuff-i-did)
+- [list of things id love to do](#would-like-to-do-a) (*not* a todo list)
+- [links to my other accounts](#links-to-socialswhatevs)
+- [profile pic credits and info](#profile-picture)
+- [some bad ascii art](#closing-thoughts)
 
 maybe if enough people ask ill add a section for zlago (me) and zlago (my character)
 
