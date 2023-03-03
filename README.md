@@ -1,8 +1,8 @@
 ### a bit about me
 - she/her, furry [(more info)](https://en.pronouns.page/@zlago)
-- currently doing homebrew for game boy (dmg, sgb and cgb) and famicom/nes
+- currently doing homebrew for game boy (dmg, sgb and cgb) ~~and famicom/nes~~
 - i also sometimes make animations of.. cats fighting? something like that
-- you may see me pop up at game jams from time to time
+- you may see me pop up at game jams ~~from time to time~~ ~~if~~ when i get nerd sniped
 - any questions? [contact me](#links-to-socialswhatevs)
 
 ### this readme contains:
@@ -20,13 +20,16 @@ maybe if enough people ask ill add a section for zlago (me) and zlago (my charac
 - a snake clone for game boy [(itch)](https://zlago.itch.io/snek-gbc)
 [(github)](github.com/zlago/snek-gbc) [(homebrew hub)](https://hh.gbdev.io/game/snek-gbc)
 - an SGB test rom involving self-writting code [(github)](https://github.com/zlago/sgb-speedtest)
+- i have no idea if this should count as something i 'did'[(github)](https://github.com/zlago/hell-on-earth-gbc)
+
+(github - source code, itch - game "page"/download, homebrew hub - play in browser/download rom)
 
 ### would like to do a..
 - somewhat lightweight GB/SGB/SNES (maybe also PokeMini) sound driver
 - platformer for DMG/SGB/GBC so impressive youd think its a windows game with bad graphics
 (doubt itll happen, but hey, you never know..)
-- somewhat simple 4 (or more) player famicom game [(cant promise ill finish it)](github.com/zlago/nes-test)
-- gbc bootrom with some special functions, like forcing a game to run in DMG mode or writting a DMA hook
+- somewhat simple 4 (or more) player famicom game, [doubt ill finish it](github.com/zlago/nes-test) ~~>implying i started working on it~~
+- gbc bootrom with some special functions, like forcing a game to run in DMG mode or maybe even writting a DMA hook
 
 ### links to socials/whatevs
 - discord : zlago#4821 (online often)
@@ -43,7 +46,7 @@ if *you need/want anything from me* then i expect *you to message me*
 ### profile picture
 if for any weird reason you would like your art to be my profile pic, dm me
 on discord about it, if i like it itll be my discord pfp, maybe on other
-platforms too, the github pfp should forever remain as the 8x8 cat thing though..
+platforms too.. but the github pfp shall forever remain as the 2 color 8x8 thing
 
 if youre unsure on how to draw zlago, well i dont really
 have a ref sheet but we should be able to figure something out
