@@ -20,7 +20,8 @@ maybe if enough people ask ill add a section for zlago (me) and zlago (my charac
 - a snake clone for game boy [(itch)](https://zlago.itch.io/snek-gbc)
 [(github)](github.com/zlago/snek-gbc) [(homebrew hub)](https://hh.gbdev.io/game/snek-gbc)
 - an SGB test rom involving self-writting code [(github)](https://github.com/zlago/sgb-speedtest)
-- i have no idea if this should count as something i 'did'[(github)](https://github.com/zlago/hell-on-earth-gbc)
+- i have no idea if this should count as something i 'did' [(itch)](https://zlago.itch.io/hell-gbc)
+[(github)](https://github.com/zlago/hell-on-earth-gbc)
 
 (github - source code, itch - game "page"/download, homebrew hub - play in browser/download rom)
 
@@ -39,9 +40,9 @@ maybe if enough people ask ill add a section for zlago (me) and zlago (my charac
 - [pronouns.page](https://en.pronouns.page/@zlago)
 
 please keep in mind that i am awful at starting and carrying
-conversations and i will NOT go out of my way to talk to you,
+conversations and i will NOT go out of my way to talk to you
 
-if *you need/want anything from me* then i expect *you to message me*
+(if *you* need/want anything *from me* then i expect *you* to *message me*)
 
 ### profile picture
 if for any weird reason you would like your art to be my profile pic, dm me
